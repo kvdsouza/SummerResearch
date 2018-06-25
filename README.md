@@ -42,3 +42,5 @@ Part of our summer research will involve reading and discussing some scientific 
 Put yourself on the calendar like this:
 ```
 | May 16   | [paper](https://...) | Julia | A very interesting paper |
+
+| June 27 | [Stochastic models and descriptive statistics for phylogenetic trees, from Yule to today](https://projecteuclid.org/euclid.ss/998929474)| Kyle D'Souza | test |
